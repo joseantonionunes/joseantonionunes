@@ -1,7 +1,7 @@
 <h3 align="center">Olá! Eu sou José Antoônio - 😃<h3>
 <p align="center">
 
-## About me
+## Sobre me
 
 - Tenho 20 anos!
 - 📚 Estou sempre tentando aprender algo novo
