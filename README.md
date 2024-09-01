@@ -8,13 +8,13 @@
 - 🚩 Objetivos: Transformar meus pensamentos em código
 
 
-## Connect with me
+## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-nunes-silva-1b31082ab/"><img align="left" alt="jose | LinkedIn" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png"></a>
 
 <br />
 
-## Languages and Tools
+## Linguagens e ferramentas
 
 <p align="left"> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
