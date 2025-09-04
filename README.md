@@ -8,11 +8,11 @@
 - 🚩 Objetivos: Transformar meus pensamentos em código
 
 
-## Conecte-se comigo
+<!-- ## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-nunes-silva-1b31082ab/"><img align="left" alt="jose | LinkedIn" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png"></a>
 
-<br />
+<br /> --<
 
 <!-- ## Linguagens e ferramentas 
 
