@@ -3,7 +3,7 @@
 
 ## Sobre min
 
-- Tenho 20 anos!
+- Tenho 22 anos!
 - 📚 Estou sempre tentando aprender algo novo
 - 🚩 Objetivos: Transformar meus pensamentos em código
 
